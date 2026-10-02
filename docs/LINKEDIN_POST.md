@@ -30,7 +30,7 @@ The next step would be a larger, preregistered comparison with at least 100 inde
 
 I have documented the methodology, frozen evidence hashes, results, limitations, and reproducibility approach here:
 
-`[ADD GITHUB REPOSITORY LINK]`
+https://github.com/Patric-1613/jev-literature-reranking-evaluation
 
 #RAG #InformationRetrieval #AIEngineering #LLMEvaluation #JEV #Reranking #ResearchEngineering
 
@@ -42,6 +42,6 @@ I tested JEV as a reranker over 17 reviewed literature-search topics and 340 fro
 
 The caveat matters: Recall@10 declined slightly, candidate recall did not change, and paired RAGAS gains were inconclusive. So the result is promising for early ranking, not evidence that JEV should replace retrieval.
 
-Methodology, evidence hashes, and limitations: `[ADD GITHUB LINK]`
+Methodology, evidence hashes, and limitations: https://github.com/Patric-1613/jev-literature-reranking-evaluation
 
 #RAG #InformationRetrieval #JEV #LLMEvaluation
