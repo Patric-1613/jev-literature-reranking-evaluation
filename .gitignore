@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Keep private and provider-generated evaluation payloads out of the public repo.
+raw-artifacts/
+checkpoints/
+provider-responses/

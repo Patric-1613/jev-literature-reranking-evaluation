@@ -1,0 +1,11 @@
+stage,metric,baseline,pure_jev,hybrid_jev,hybrid_minus_baseline,interpretation
+retrieval,candidate_pool_recall,0.6078,0.6078,0.6078,0.0000,"Identical membership; reranking cannot improve pool recall"
+retrieval,precision_at_5,0.0235,0.0941,0.1647,0.1412,"Hybrid best tested arm"
+retrieval,precision_at_10,0.1000,0.0824,0.0941,-0.0059,"Baseline best tested arm"
+retrieval,recall_at_5,0.1176,0.3039,0.5000,0.3824,"Hybrid best tested arm"
+retrieval,recall_at_10,0.6078,0.5294,0.5784,-0.0294,"Baseline best tested arm"
+retrieval,ndcg_at_10,0.2712,0.3057,0.4111,0.1399,"Hybrid best tested arm"
+retrieval,mrr_at_10,0.1662,0.2678,0.4085,0.2423,"Hybrid best tested arm"
+ragas,faithfulness,0.9213,,0.9539,0.0326,"Positive but statistically inconclusive"
+ragas,answer_relevancy,0.7928,,0.8422,0.0494,"Positive but statistically inconclusive and outlier-sensitive"
+ragas,answer_relevancy_without_halluc_01,NA,,NA,0.00263,"Practical gain nearly disappears"

@@ -1,0 +1,18 @@
+topic_id,question,review_status
+peft-01,"What update mechanism does RoCoFT use to reduce the number of trainable parameters?",human_verified
+attn-01,"According to the papers provided, what evidence is available about attention mechanism in transformer architectures?",human_verified
+rag-01,"According to the papers provided, what evidence is available about retrieval-augmented generation for large language models?",human_verified
+cnn-01,"According to the papers provided, what evidence is available about convolutional neural networks for image classification?",human_verified
+embed-01,"According to the papers provided, what evidence is available about dense vector embeddings for semantic search?",human_verified
+hybrid-01,"According to the papers provided, what evidence is available about hybrid search combining dense and sparse retrieval methods?",human_verified
+agent-01,"What architectural patterns and challenges do the provided papers describe for enabling LLM agents to use tools reliably and efficiently?",human_verified
+halluc-01,"According to the papers provided, what evidence is available about reducing hallucination in retrieval-augmented generation?",human_verified
+ids-fewshot-01,"According to the papers provided, what evidence is available about few-shot learning approaches for intrusion detection systems?",human_verified
+eval-01,"How do the provided papers evaluate RAG systems, and what strengths or limitations do their evaluation approaches identify?",human_verified
+citegrnd-01,"According to the papers provided, what evidence is available about structural citation grounding in LLM-generated text?",human_verified
+vecdb-01,"According to the papers provided, what evidence is available about approximate nearest neighbor indexing at scale for vector databases?",human_verified
+multiagent-01,"According to the papers provided, what evidence is available about multi-round iterative retrieval in conversational search agents?",human_verified
+hornet-01,"What detection approach does the VespAI system use?",human_verified
+insect-cv-01,"According to the papers provided, what evidence is available about YOLO-based object detection for pollinator and insect monitoring?",human_verified
+insect-class-01,"How do the provided papers approach fine-grained or multi-class visual classification, and what differences in data or model design do they report?",human_verified
+langgraph-01,"What approaches do the provided papers describe for coordinating agent workflows or graph-based control, and where is the available evidence limited?",human_verified
